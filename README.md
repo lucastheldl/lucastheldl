@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucastheldl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript and web development(html and css)
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript, html and css)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lucastheldl@gmail.com
 

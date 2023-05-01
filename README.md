@@ -15,6 +15,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=BOOTSTRAP&logoColor=purple)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next%20js-333333?style=flat&logo=next.js)
   ![React Vite](https://img.shields.io/badge/-vite-333333?style=flat&logo=vite)
 
 **Utilidades**

@@ -35,7 +35,7 @@
 
 ## 🔔Como chegar até mim?</h3>
 
-- <a href="https://lucastheldl.github.io/FrontEnd-Portifolio/" alt="Portifólio">Meu portifólio pessoal</a>
+- <a href="https://next-frontend-portifolio.vercel.app/" alt="Portifólio">Meu portifólio pessoal</a>
 - <a href="https://www.linkedin.com/in/lucas-emanoel-figueiredo-da-silva" alt="Linkedin">Linkedin</a>
 - <a mailto="@lucasfigueiredo.emanoel@gmail.com" alt="email">lucasfigueiredo.emanoel@gmail.com</a>
  

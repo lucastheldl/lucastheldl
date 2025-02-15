@@ -17,6 +17,7 @@
   ![Tailwind](https://img.shields.io/badge/-TAILWINDCSS-333333?style=flat&logo=TAILWINDCSS&logoColor=fff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=BOOTSTRAP&logoColor=purple)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
   
   ![React Vite](https://img.shields.io/badge/-vite-333333?style=flat&logo=vite)
   

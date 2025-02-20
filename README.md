@@ -21,7 +21,7 @@
   
   ![React Vite](https://img.shields.io/badge/-vite-333333?style=flat&logo=vite)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastheldl&hide_progress=true)
+ ![Top Langs](https://github-readme-stats-wsche-uwp0hhkzs-lucastheldls-projects.vercel.app/api/top-langs/?hide_progress=true&username=lucastheldl)
 
 
 **DevOps**

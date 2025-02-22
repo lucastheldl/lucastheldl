@@ -1,6 +1,6 @@
- <h2>👋 Olá, me chamo Lucas Emanoel</h2>
+ <h2>👋 Hello, me chamo Lucas</h2>
  <p align="left">
-   Sou desenvolvedor frontend, estou me formando em desenvolvimento de jogos digitais assim como fazendo cursos especializados para o desenvolvimento web, com foco em conseguir minha primeira oportunidade na área.
+   Sou desenvolvedor frontend, formado em desenvolvimento de jogos digitais assim como fazendo cursos especializados para o desenvolvimento web, com foco em crescer como programador e criar coisas incríveis.
 </p>
  
 ## 🚀 Minhas Skills
@@ -21,7 +21,7 @@
   
   ![React Vite](https://img.shields.io/badge/-vite-333333?style=flat&logo=vite)
 
- ![Top Langs](https://github-readme-stats-wsche.vercel.app/api/top-langs/?hide_progress=true&username=lucastheldl)
+ ![Top Langs](https://github-readme-stats-wsche.vercel.app/api/top-langs/?hide_progress=true&username=lucastheldl&layout=compact&theme=dark)
 
 
 **DevOps**

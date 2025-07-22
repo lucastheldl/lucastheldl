@@ -3,7 +3,7 @@
   Sou <strong>desenvolvedor frontend</strong> formado em desenvolvimento de jogos digitais e especializado em desenvolvimento web. Apaixonado por criar experiências digitais incríveis e sempre em busca de crescimento como programador.
 </p>
 <p align="left">
-  🎮 <strong>Background em Game Development</strong> • 💻 <strong>Focado em web development</strong> • 🚀 <strong>Sempre aprendendo</strong>
+  🎮 <strong>Background em Game Development</strong> • 💻 <strong>Focado em Web Development</strong> • 🚀 <strong>Sempre aprendendo</strong>
 </p>
  
 ## 🚀 Minhas Skills

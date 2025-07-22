@@ -1,6 +1,9 @@
- <h2>👋 Hello, me chamo Lucas</h2>
- <p align="left">
-   Sou desenvolvedor frontend, formado em desenvolvimento de jogos digitais assim como fazendo cursos especializados para o desenvolvimento web, com foco em crescer como programador e criar coisas incríveis.
+<h2>👋 Hello, me chamo Lucas</h2>
+<p align="left">
+  Sou <strong>desenvolvedor frontend</strong> formado em desenvolvimento de jogos digitais e especializado em desenvolvimento web. Apaixonado por criar experiências digitais incríveis e sempre em busca de crescimento como programador.
+</p>
+<p align="left">
+  🎮 <strong>Background em Game Development</strong> • 💻 <strong>Especialista em Frontend</strong> • 🚀 <strong>Sempre aprendendo</strong>
 </p>
  
 ## 🚀 Minhas Skills
